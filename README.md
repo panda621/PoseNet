@@ -56,7 +56,7 @@ npm install gh-pages --save-dev
 {
     "name": "my-app",
     "version": "0.1.0",
-+   "homepage": "https://billy-06.github.io/PoseNetJS",
++   "homepage": "https://panda621.github.io/PoseNetJS",
     "private": true,
     ...
 }
@@ -95,4 +95,4 @@ Set the directory to `/root`
 
 ### All set
 
-Check the browser at [your gh link](https://billy-06.github.io/PoseNetJS)
+Check the browser at [your gh link](https://panda621.github.io/PoseNetJS)
